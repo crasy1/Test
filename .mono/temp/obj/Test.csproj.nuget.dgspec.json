@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/weitaoji/godot_project/test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/weitaoji/godot_project/test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/weitaoji/godot_project/test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/weitaoji/godot_project/test/Test.csproj",
+        "packagesPath": "/Users/weitaoji/.nuget/packages/",
+        "outputPath": "/Users/weitaoji/godot_project/test/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/weitaoji/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/weitaoji/godot_project/test/.mono/temp/bin/ExportDebug/Test.dll
+/Users/weitaoji/godot_project/test/.mono/temp/bin/ExportDebug/Test.pdb
+/Users/weitaoji/godot_project/test/.mono/temp/bin/ExportDebug/Newtonsoft.Json.dll
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.csprojAssemblyReference.cache
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.AssemblyInfoInputs.cache
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.AssemblyInfo.cs
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.csproj.CoreCompileInputs.cache
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.csproj.CopyComplete
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.dll
+/Users/weitaoji/godot_project/test/.mono/temp/obj/ExportDebug/Test.pdb

@@ -1,0 +1,14 @@
+[
+  {
+    "Damage": 1,
+    "Animation": "attack",
+    "Effect": "",
+    "Host": "AdventurerFemale"
+  },
+  {
+    "Damage": 10,
+    "Animation": "attack2",
+    "Effect": "",
+    "Host": "AdventurerMale"
+  }
+]

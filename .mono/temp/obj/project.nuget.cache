@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWDZ8qbzD9DZ1QGqyz/X8J8w7rT9CYxdATSdW+nC1I83i5tUN7hf/Bst8gXsajgzOq74/ucDywrPgBKg3cHxHg==",
+  "success": true,
+  "projectFilePath": "/Users/weitaoji/godot_project/test/Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/weitaoji/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
